@@ -1,12 +1,7 @@
 ## 😄 Hi There! I'm Maicon Santos
 ## 😄 Olá, meu nome é <strong>Maicon Santos</strong>!
 
-📚 Desenvolvedora Full Stack pelo Programa Starter 12º edição Web Full Stack Developer - GrowDev.<br>
-📚Estudante de Análise e Desenvolvimento de Sistemas - UNIESP.<br> 
-🎓Graduação em Bacharelado e Licenciatura em Música, com habilitação em práticas interpretativas em oboé - UFPB.<br>
-🔬 Participei de grupos de pesquisa de iniciação científica, docência e extensão dentro da Universidade Federal da Paraíba.<br> 
-👩‍🏫 Atuo como professora de oboé no Programa de Inclusão Através da Música e das Artes (PRIMA).<br> 
-
+📚 Desenvolvedor Full Stack pelo Programa Starter 17º edição Web Full Stack Developer - GrowDev.<br> 
 🟢💻 Atualmente estou em transição de carreira para a área de tecnologia, desenvolvimento Web Full Stack.
 
 😄 No meu tempo livre eu gosto de assistir séries, filmes, ler, jogar games e sair com os meus amigos!
@@ -15,7 +10,7 @@
   
 <div align="center">
   <a href="https://github.com/Maicon46">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maicon46&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  width="435px"  src="https://github-readme-stats.vercel.app/api?username=Maicon46&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maicon46&layout=compact&langs_count=7&theme=dracula"/>
 </div>  
   
